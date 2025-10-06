@@ -125,19 +125,19 @@ pipeline {
 
 ## 📸 Screenshots
 ## Jenkins Dashboard
-![Jenkins Dashboard](./Screenshots/)
+![Jenkins Dashboard](./Screenshots/jenkins-dashboard.jpg)
 
 ## Jenkins Pipeline Overview
-![Pipeline Overview](./Screenshots)
+![Pipeline Overview](./Screenshots/jenkins-pipeline-overview.jpg)
 
 ## Jenkins Build status
-![Build Status](./Screenshots)
+![Build Status](./Screenshots/jenkins-build-status.jpg)
 
 ## Jenkins Docker Container and NodeJS App Container
-![Docker Container](./Screenshots)
+![Docker Container](./Screenshots/jenkins-docker-contaner.jpg)
 
 ## Jenkins NodeJS app in Browser
-![App in Browser](./Screenshots)
+![App in Browser](./Screenshots/jenkins-nodeapp-inbrowser.jpg)
 
 
 ## 👨‍💻 Author  
